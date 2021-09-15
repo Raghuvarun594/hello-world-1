@@ -24,7 +24,7 @@
    <distributionManagement>
     <snapshotRepository>
       <id>nexus-snapshot</id>
-      <url>http://13.234.225.187:8081/#admin/repository/repositories:testrepo</url>
+      <url>http://13.234.225.187:8081/nexus/content/repositories/snapshots</url>
     </snapshotRepository>
   </distributionManagement>
              
